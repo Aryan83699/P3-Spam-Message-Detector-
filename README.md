@@ -36,14 +36,14 @@
   Requirements 
  </h3>
  <p>
-  1. Requirments packages :- <br>
+ <h4> 1. Requirments packages :- <br></h4>
         a. streamlit  <br>
         b. pandas   <br>
         c. numpy   <br>
         d. sklearn   <br>
         e. gTTS   <br>
         f. matplotlib & Seaborn  <br>
-  2. software requirements:- <br>
+  <h4>2. software requirements:- <br></h4>
         a. vscode  <br>
         b. google colab / Jupyter Notebook <br>
  </p>
