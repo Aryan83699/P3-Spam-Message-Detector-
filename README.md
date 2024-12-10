@@ -30,6 +30,23 @@
   <p>
     The use of Naive Bayes and CountVectorizer effectively classifies emails into spam and ham categories, offering a reliable solution for automated email filtering. This method provides a solid foundation for building efficient spam detection systems in real-world applications.
   </p>
+ <br>
+ <br>
+ <h3>
+  Requirements 
+ </h3>
+ <p>
+  1. Requirments packages :- <br>
+        a. streamlit  <br>
+        b. pandas   <br>
+        c. numpy   <br>
+        d. sklearn   <br>
+        e. gTTS   <br>
+        f. matplotlib & Seaborn  <br>
+  2. software requirements:- <br>
+        a. vscode  <br>
+        b. google colab / Jupyter Notebook <br>
+ </p>
 </body>
 </html>
   
