@@ -14,9 +14,9 @@
     Objectives:
   </h3>
   <p>
-    1.	Develop a machine learning model to classify emails as "spam" or "ham" (non-spam).
-    2.	Utilize NLP techniques, such as text preprocessing, tokenization, and vectorization, to represent email content in a suitable format for machine learning.
-    3.	Evaluate the performance of the Naive Bayes algorithm in comparison to other classification models.
+    1.	Develop a machine learning model to classify emails as "spam" or "ham" (non-spam).<br>
+    2.	Utilize NLP techniques, such as text preprocessing, tokenization, and vectorization, to represent email content in a suitable format for machine learning.<br>
+    3.	Evaluate the performance of the Naive Bayes algorithm in comparison to other classification models.<br>
   </p>
   <h3>
     Methodology:
