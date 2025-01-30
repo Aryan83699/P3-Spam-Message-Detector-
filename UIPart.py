@@ -1,6 +1,6 @@
 import pickle
 import streamlit as st
-from gtts import gTTS
+import gTTS
 import io
 import os
 import base64
