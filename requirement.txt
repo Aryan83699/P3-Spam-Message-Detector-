@@ -1,4 +1,4 @@
-gTTS
+from gtts import gTTS
 sckit learn
 matplotlib
 pandas
